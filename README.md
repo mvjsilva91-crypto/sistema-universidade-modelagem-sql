@@ -1,11 +1,3 @@
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
-![Status](https://img.shields.io/badge/status-concluido-brightgreen)
-![Nivel](https://img.shields.io/badge/nivel-avancado-red)
-![Modelagem](https://img.shields.io/badge/modelagem-relacional-orange)
-![SQL](https://img.shields.io/badge/SQL-ANSI-informational)
-![GitHub](https://img.shields.io/badge/versionamento-GitHub-black)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-
 # 🎓 Sistema Universidade - Modelagem SQL
 
 Projeto de banco de dados relacional desenvolvido em MySQL, simulando um sistema completo de gestão universitária, incluindo alunos, cursos, professores, contratos e controle financeiro.
