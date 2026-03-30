@@ -168,4 +168,4 @@ Modelagem Relacional
 
 ## 📎 Observações
 
-Este projeto tem fins educacionais e demonstra a aplicação prática de conceitos de banco de dados em um cenário realista.
+Este projeto foi desenvolvido com foco em portfólio e demonstra a aplicação prática de conceitos de banco de dados em um cenário realista.
