@@ -1,6 +1,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
-![Status](https://img.shields.io/badge/status-concluído-brightgreen)
-![Nível](https://img.shields.io/badge/nível-avançado-red)
+![Status](https://img.shields.io/badge/status-concluido-brightgreen)
+![Nivel](https://img.shields.io/badge/nivel-avancado-red)
 ![Modelagem](https://img.shields.io/badge/modelagem-relacional-orange)
 ![SQL](https://img.shields.io/badge/SQL-ANSI-informational)
 ![GitHub](https://img.shields.io/badge/versionamento-GitHub-black)
