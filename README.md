@@ -169,12 +169,3 @@ Modelagem Relacional
 ## 📎 Observações
 
 Este projeto foi desenvolvido com foco em portfólio e demonstra a aplicação prática de conceitos de banco de dados em um cenário realista.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-Database-blue"/>
-  <img src="https://img.shields.io/badge/status-concluido-brightgreen"/>
-  <img src="https://img.shields.io/badge/nivel-avancado-red"/>
-  <img src="https://img.shields.io/badge/modelagem-relacional-orange"/>
-  <img src="https://img.shields.io/badge/SQL-ANSI-informational"/>
-  <img src="https://img.shields.io/badge/versionamento-GitHub-black"/>
-</p>
