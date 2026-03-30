@@ -48,7 +48,7 @@ Este projeto foi criado com o objetivo de praticar e demonstrar conhecimentos em
  ├── 06_functions.sql     # Functions
  ├── 07_triggers.sql      # Triggers
  ├── 08_views.sql         # Views
- ├── 09_outros.sql        # Testes, variáveis e exemplos
+
 ```
 
 ---
@@ -80,7 +80,6 @@ Este projeto foi criado com o objetivo de praticar e demonstrar conhecimentos em
 
 ```sql
 04_joins.sql
-09_outros.sql
 ```
 
 ---
