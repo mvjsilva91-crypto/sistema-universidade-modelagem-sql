@@ -50,6 +50,19 @@ Este projeto foi criado com o objetivo de praticar e demonstrar conhecimentos em
  ├── 08_views.sql         # Views
 
 ```
+📘 Dicionário de Dados
+
+A documentação das tabelas e campos está disponível em:
+
+📄 Versão para leitura: docs/descricao relacionamentos.png
+📊 Versão completa: docs/dicionario_dados.xlsx
+
+---
+## 🧠 Modelo Entidade-Relacionamento (DER)
+
+Este diagrama representa a estrutura do banco de dados, incluindo entidades, relacionamentos e chaves.
+
+![Diagrama do Banco de Dados](docs/diagrama.png)
 
 ---
 
@@ -140,19 +153,10 @@ Este projeto utiliza recursos mais avançados do MySQL, como:
 
 ---
 
-## 📷 Possíveis melhorias futuras
-
-* Integração com Power BI para dashboards
-* Criação de API em PHP ou Node.js
-* Interface web para gerenciamento
-* Normalização adicional do banco
-
----
-
-## 🛠️ Tecnologias utilizadas
-
-* MySQL
-* SQL
+🚀 Tecnologias Utilizadas
+MySQL
+SQL
+Modelagem Relacional
 
 ---
 
